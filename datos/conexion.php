@@ -6,9 +6,9 @@
 
     private $driver='mysql';
     private $host='sql10.freemysqlhosting.net';
-    private $user='sql10617482';
+    private $user='sql10650572';
     private $pass='5XmCCvUppG';
-    private $dbName='sql10617482';
+    private $dbName='sql10650572';
     private $charset='utf8';
     
     //patron singleton
