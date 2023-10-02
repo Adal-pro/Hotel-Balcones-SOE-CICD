@@ -7,7 +7,7 @@
     private $driver='mysql';
     private $host='sql10.freemysqlhosting.net';
     private $user='sql10650572';
-    private $pass='5XmCCvUppG';
+    private $pass='wvghrxWwpj';
     private $dbName='sql10650572';
     private $charset='utf8';
     
